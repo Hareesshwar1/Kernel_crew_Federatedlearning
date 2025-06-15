@@ -75,3 +75,6 @@ By visualizing the distribution, we can better understand how client performance
 
 ## Training Time and Memory Usage vs Batch Size
 ![image](https://github.com/Hareesshwar1/Kernel_crew_Federatedlearning/blob/main/images/TT_MUvsBS.jpeg)
+
+Client Random vs Smart selection:
+
