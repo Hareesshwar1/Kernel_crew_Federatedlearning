@@ -78,3 +78,5 @@ By visualizing the distribution, we can better understand how client performance
 
 Client Random vs Smart selection:
 
+![image](https://github.com/user-attachments/assets/040b895d-3c9b-4cb5-ac95-c61e57ac9a8a)
+
