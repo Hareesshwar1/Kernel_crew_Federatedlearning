@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/37f65c65-9820-4e5a-8bad-62b23b761668)
+
+-------------------------------------------------------------------------------------------------------------
 |This script helps visualize how data is spread across 12 different clients in a federated learning setup using the CIFAR-10 dataset.|
 
 The dataset is split using a Dirichlet distribution with a parameter of 0.05, which creates an intentionally uneven distribution to mimic real-world non-IID data scenarios.
