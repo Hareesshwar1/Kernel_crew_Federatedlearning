@@ -21,3 +21,4 @@ By visualizing the distribution, we can better understand how client performance
 
 ![image](https://github.com/user-attachments/assets/0bc14d2c-9cf8-4db2-b9bb-d95879e1113d)
 ![image](https://github.com/user-attachments/assets/1a3800ac-1d40-4222-9a88-a4dedca846d9)
+![image](https://github.com/Hareesshwar1/Kernel_crew_Federatedlearning/blob/1caf5c14011ead8ef54506927f8110d85a4bd597/images/ClientLevelDistributionPerClient.jpeg)
