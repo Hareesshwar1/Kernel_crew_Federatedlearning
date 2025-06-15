@@ -18,17 +18,17 @@ By visualizing the distribution, we can better understand how client performance
 
 
 
-##Number of Samples per Client
+
 ![image](https://github.com/user-attachments/assets/0bc14d2c-9cf8-4db2-b9bb-d95879e1113d)
 
 ![image](https://github.com/user-attachments/assets/1a3800ac-1d40-4222-9a88-a4dedca846d9)
 
-
+## Number of Samples per Client
 ![image](https://github.com/Hareesshwar1/Kernel_crew_Federatedlearning/blob/main/images/NumberOfSamplesPerClient.jpeg)
 
-
+## Label Distribution per Client (%)
 ![image](https://github.com/Hareesshwar1/Kernel_crew_Federatedlearning/blob/main/images/ClientLevelDistributionPerClient.jpeg)
 
 
-
+## Training Time and Memory Usage vs Batch Size
 ![image](https://github.com/Hareesshwar1/Kernel_crew_Federatedlearning/blob/main/images/TT_MUvsBS.jpeg)
